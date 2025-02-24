@@ -1,5 +1,0 @@
-streamlit 
-google-generativeai 
-langchain 
-google-cloud-firestore 
-python-dotenv
